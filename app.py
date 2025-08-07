@@ -1,6 +1,6 @@
 print("hello world")
 
-x = 500
+x = 200
 y = 3
 
 z = x - y
